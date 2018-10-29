@@ -4,7 +4,7 @@
 **Warning this application is only available in spanish for now, future releases may include others languages**
 
 ### Descripción General
-Mediante el consumo de la API pública de Yolanda Sultana [https://api.adderou.cl/tyaas/](https://api.adderou.cl/tyaas/) (TYAAS es por "Tia Yoli As a Service", permite visualizar mediante terminal 
+Mediante el consumo de la API pública de Yolanda Sultana [https://api.adderou.cl/tyaas/](https://api.adderou.cl/tyaas/) (TYAAS es por "Tia Yoli As a Service"), permite visualizar mediante terminal el horóscopo del día para un signo específico con uno de tres aspectos: amor, dinero o salud.
 
 ### Dependencias externas
 - [jq](https://stedolan.github.io/jq/)
